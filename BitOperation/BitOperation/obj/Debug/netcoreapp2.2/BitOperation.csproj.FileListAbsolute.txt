@@ -1,0 +1,11 @@
+G:\小资料\位运算\BitOperation\BitOperation\bin\Debug\netcoreapp2.2\BitOperation.deps.json
+G:\小资料\位运算\BitOperation\BitOperation\bin\Debug\netcoreapp2.2\BitOperation.runtimeconfig.json
+G:\小资料\位运算\BitOperation\BitOperation\bin\Debug\netcoreapp2.2\BitOperation.runtimeconfig.dev.json
+G:\小资料\位运算\BitOperation\BitOperation\bin\Debug\netcoreapp2.2\BitOperation.dll
+G:\小资料\位运算\BitOperation\BitOperation\bin\Debug\netcoreapp2.2\BitOperation.pdb
+G:\小资料\位运算\BitOperation\BitOperation\obj\Debug\netcoreapp2.2\BitOperation.csprojAssemblyReference.cache
+G:\小资料\位运算\BitOperation\BitOperation\obj\Debug\netcoreapp2.2\BitOperation.csproj.CoreCompileInputs.cache
+G:\小资料\位运算\BitOperation\BitOperation\obj\Debug\netcoreapp2.2\BitOperation.AssemblyInfoInputs.cache
+G:\小资料\位运算\BitOperation\BitOperation\obj\Debug\netcoreapp2.2\BitOperation.AssemblyInfo.cs
+G:\小资料\位运算\BitOperation\BitOperation\obj\Debug\netcoreapp2.2\BitOperation.dll
+G:\小资料\位运算\BitOperation\BitOperation\obj\Debug\netcoreapp2.2\BitOperation.pdb
