@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\小资料\\位运算\\BitOperation\\BitOperation\\BitOperation.csproj",
+      "projectUniqueName": "G:\\小资料\\ccc\\BitOperation\\BitOperation\\BitOperation.csproj",
       "projectName": "BitOperation",
-      "projectPath": "G:\\小资料\\位运算\\BitOperation\\BitOperation\\BitOperation.csproj",
+      "projectPath": "G:\\小资料\\ccc\\BitOperation\\BitOperation\\BitOperation.csproj",
       "packagesPath": "C:\\Users\\nihaoya\\.nuget\\packages\\",
-      "outputPath": "G:\\小资料\\位运算\\BitOperation\\BitOperation\\obj\\",
+      "outputPath": "G:\\小资料\\ccc\\BitOperation\\BitOperation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
